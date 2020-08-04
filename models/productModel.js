@@ -4,3 +4,5 @@ exports.addNewProduct = fucntion ( productInfo ) {
   const sql = `test`;
   return queryMySQL(sql);
 }
+
+// test product add
